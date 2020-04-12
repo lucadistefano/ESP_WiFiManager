@@ -5,9 +5,9 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/khoih-prog/ESP_WiFiManager"
+    "url": "https://github.com/lucadistefano/ESP_WiFiManager"
   },
   "frameworks": "arduino",
   "platforms": "espressif",
-  "version": "1.0.6"
+  "version": "1.0.7"
 }

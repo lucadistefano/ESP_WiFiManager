@@ -33,3 +33,5 @@
 
 # Visual Studio folder and files
 .vs
+.pio
+.vscode
